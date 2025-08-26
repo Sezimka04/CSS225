@@ -1,1 +1,1 @@
-print("Melika is 21")
+print("Melika")
