@@ -1,0 +1,1 @@
+print("Sezim is 20 years old")
